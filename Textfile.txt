@@ -1,0 +1,10 @@
+Dell XPS15 IntelCorei7 1TBSSD NVIDIAGeForceGTX_1650
+MacBook Pro16 IntelCorei9 1TBSSD AMDRadeon_Pro_5500M
+HP Spectrex360 IntelCorei7 512GBSSD IntelUHDGraphics
+Asus ROGZephyrus_G14 - 1TBSSD NVIDIAGeForce_RTX_2060
+Lenovo ThinkPadX1Carbon IntelCorei7 512GBSSD IntelUHDGraphics 
+Microsoft Surface_Laptop_3 AMDRyzen5 - AMDRadeon_Vega_9
+Acer Predator_Helios_300 IntelCorei7 512GBSSD NVIDIA GeForce GTX_1660_Ti 
+MSI GS66Stealth IntelCorei9 1TBSSD NVIDIAGeForce_RTX_2080_Super 
+Razer Blade15 IntelCorei7 512GB SSD NVIDIAGeForce_RTX_2080_Super 
+Alienware Area51m IntelCorei9 2TBSSD NVIDIAGeForce_RTX_2080_SUPER

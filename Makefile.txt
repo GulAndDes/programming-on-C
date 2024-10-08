@@ -1,0 +1,19 @@
+CXX = g++
+CXXFLAGS = -std=c++17 -Wall -Wextra -Werror
+DEBUG = gdb
+FILEOUT = tree.out
+SOURCES = tree.cpp main.cpp
+
+all: $(FILEOUT)
+
+$(FILEOUT): $(SOURCES)
+	$(CXX) $(CXXFLAGS) $^ -o $@
+
+clean:
+	rm -f $(FILEOUT)
+
+debug: $(FILEOUT)
+	$(DEBUG) $(FILEOUT)
+
+run: $(FILEOUT)
+	./$(FILEOUT)
